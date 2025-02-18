@@ -5,6 +5,8 @@ Power BI templates built by SeedMetrics
 
 To use our demo, input the following parameters when prompted:
 - Tenant Name: `DunderMifflin`
+- Server hostname: `adb-7790335672440902.2.azuredatabricks.net`
+- HTTP path: `/sql/1.0/warehouses/ca8627d48f0ba4f7`
 - Personal Access Token: `dapi7cc9ad5ab1909dd47597be14b40c7ddb-3`
 
 # Getting Started
