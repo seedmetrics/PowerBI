@@ -31,3 +31,8 @@ Then input the Personal Access Token provided via email. For the demo, use the P
 You may be prompted to run certain queries on your first connection. If so, just select "Run" for each of them:
 
 ![Screenshot 2025-02-18 at 10 48 00 AM](https://github.com/user-attachments/assets/1e49d3b8-5019-4c74-9c0b-5c23ef839f2f)
+
+Save your file and start building!
+
+## Questions?
+Feel free to reach out to us directly at support@seedmetrics.com
