@@ -10,7 +10,7 @@ To use our demo, input the following parameters when prompted:
 # Getting Started
 
 ### Step 1: Download the .pbit file
-- [Financial Reporting v2.0.pbit](https://github.com/seedmetrics/PowerBI/raw/85dba1a1a08c264ed833712a2ee5ab2194ac664a/Financial%20Reporting%20v2.0.pbit)
+- [Financial Reporting v2.0.pbit](https://github.com/seedmetrics/PowerBI/raw/refs/heads/main/Financial%20Reporting%20v2.0.pbit)
 
 ### Step 2: Configuration
 When you open the file, you'll be prompted to input some configuration values. Input the Company Name, Server Name, and Hostname provided to you via email. Then click "Load".
