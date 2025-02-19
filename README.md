@@ -3,14 +3,14 @@ Power BI templates built by SeedMetrics
 
 # Try the demo
 
-To use our demo, input the following parameters in your configuration:
+To use our demo, **[fill out this quick form](https://form.jotform.com/250335044965154)** so we can send you the connection configs!
 - Tenant Name: `DunderMifflin`
-- Server hostname: `adb-7790335672440902.2.azuredatabricks.net`
-- HTTP path: `/sql/1.0/warehouses/ca8627d48f0ba4f7`
+- Server hostname:  _(details provided via email)_
+- HTTP path: _(details provided via email)_
 - Connection Type: `Default`
 - Environment: `demo`
 
-- Personal Access Token: `dapi7cc9ad5ab1909dd47597be14b40c7ddb-3`
+- Personal Access Token: _(details provided via email)_
 
 # Getting Started
 
