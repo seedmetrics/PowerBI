@@ -7,8 +7,6 @@ To use our demo, **[fill out this quick form](https://form.jotform.com/250335044
 - Tenant Name: `DunderMifflin`
 - Server hostname:  _(details provided via email)_
 - HTTP path: _(details provided via email)_
-- Connection Type: `Default`
-- Environment: `demo`
 
 - Personal Access Token: _(details provided via email)_
 
