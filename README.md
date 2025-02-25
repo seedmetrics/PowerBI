@@ -1,5 +1,6 @@
 # PowerBI
-Power BI templates built by SeedMetrics
+This advanced Power BI template was built by [SeedMetrics](https://seedmetrics.io) to compliment our Quickbooks Online connector. To connect this template to your QBO instance, [schedule on onboarding session with our team](https://calendly.com/seedmetrics-dj/onboarding?a2=GitHub).
+
 
 # Try the demo
 
