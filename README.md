@@ -23,12 +23,12 @@ When you open the file, you'll be prompted to input some configuration values. I
 
 
 ### Step 3: Authentication
-When prompted to authenticate. Select "Personal Access Token":
+When prompted to authenticate, select "Personal Access Token":
 
 ![Screenshot 2025-02-18 at 10 45 49 AM](https://github.com/user-attachments/assets/03673d2d-daf4-4408-8569-e4d1820e54b0)
 
 
-Then input the Personal Access Token provided via email. For the demo, use the Personal Access Token above:
+Then input the Personal Access Token provided via email.
 
 ![Screenshot 2025-02-18 at 10 46 28 AM](https://github.com/user-attachments/assets/e676e427-8c15-472a-ae6b-33d4fbfd5669)
 
