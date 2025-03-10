@@ -1,15 +1,10 @@
 # PowerBI
-This advanced Power BI template was built by [SeedMetrics](https://seedmetrics.io) to compliment our Quickbooks Online connector. To connect this template to your QBO instance, [schedule on onboarding session with our team](https://calendly.com/seedmetrics-dj/onboarding?a2=GitHub).
+This advanced Power BI template was built by [SeedMetrics](https://seedmetrics.io) to compliment our Quickbooks Online connector. You can use our demo for free or you can connect this template to your live QBO instance in just 5 minutes -- [instructions found here](https://seedmetrics.notion.site/?pvs=4).
 
 
-# Try the demo
+# Using the demo
+To connect this template to demo data, **[fill out this quick form](https://form.jotform.com/250335044965154)** so we can send you demo credentials, then follow the instructions below.
 
-To use our demo, **[fill out this quick form](https://form.jotform.com/250335044965154)** so we can send you the connection configs!
-- Tenant Name: `DunderMifflin`
-- Server hostname:  _(details provided via email)_
-- HTTP path: _(details provided via email)_
-
-- Personal Access Token: _(details provided via email)_
 
 # Getting Started
 
@@ -37,6 +32,9 @@ You may be prompted to run certain queries on your first connection. If so, just
 ![Screenshot 2025-02-18 at 10 48 00 AM](https://github.com/user-attachments/assets/1e49d3b8-5019-4c74-9c0b-5c23ef839f2f)
 
 Save your file and start building!
+
+## Feedback and Bug Reports
+We value your feedback! Please use these forms to [report any bugs](https://www.notion.so/1b28c163b7cb818e8560d0b1db5a2dde?pvs=106) or [share your suggestions for improvement](https://verbose-parent-f88.notion.site/1b28c163b7cb80688362e1817c6c6f83?pvs=105).
 
 ## Questions?
 Feel free to reach out to us directly at support@seedmetrics.com
