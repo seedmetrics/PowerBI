@@ -3,7 +3,7 @@ This advanced Power BI template was built by [SeedMetrics](https://seedmetrics.i
 
 
 # Using the demo
-To connect this template to demo data, **[fill out this quick form](https://form.jotform.com/250335044965154)** so we can send you demo credentials, then follow the instructions below.
+To connect this template to demo data, **[fill out this quick form](https://seedmetrics.github.io/web-hosting/forms/qbo-powerbi-template)** so we can send you demo credentials, then follow the instructions below.
 
 
 # Getting Started
