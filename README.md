@@ -1,5 +1,5 @@
 # PowerBI
-This advanced Power BI template was built by [SeedMetrics](https://seedmetrics.io) to compliment our Quickbooks Online connector. You can use our demo for free or you can connect this template to your live QBO instance in just 5 minutes -- [instructions found here](https://seedmetrics.notion.site/?pvs=4).
+This advanced Power BI template was built by [SeedMetrics](https://seedmetrics.io) to compliment our Quickbooks Online connector. You can use our demo for free or you can connect this template to your live QBO instance in just 5 minutes -- [instructions found here]([https://seedmetrics.notion.site/?pvs=4](https://seedmetrics.notion.site/SeedMetrics-x-Quickbooks-Online-Connector-17a8c163b7cb811689d8dbc5618c8e88?pvs=74)).
 
 
 # Using the demo
